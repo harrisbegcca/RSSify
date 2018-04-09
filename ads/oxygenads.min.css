@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon|Poppins');
+
+.oxygen-ad {
+  background: black !important;
+  max-width: 60%;
+  width: auto !important;
+  height: auto !important;
+  min-height: 150px;
+  font-family: "Poppins","Do Hyeon";
+}
