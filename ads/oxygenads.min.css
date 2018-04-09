@@ -2,9 +2,12 @@
 
 .oxygen-ad {
   background: black !important;
-  max-width: 60%;
+  max-width: 250px;
+  padding: 10px;
+  min-width: 100px;
+  border-radius: 15px;
   width: auto !important;
   height: auto !important;
-  min-height: 150px;
+  min-height: 100px;
   font-family: "Poppins","Do Hyeon";
 }
